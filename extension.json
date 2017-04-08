@@ -11,25 +11,13 @@
 	"AutoloadClasses": {
 		"SpecialFindRefs": "specials/SpecialFindRefs.php"
 	},
-	
-	"ExtensionMessagesFiles": {
-		"BoilerPlateAlias": "BoilerPlate.i18n.alias.php"
-	},
-	"Hooks": {
-		"NameOfHook": [
-			"BoilerPlateHooks::onNameOfHook"
-		]
-	},
+
 	"MessagesDirs": {
 		"FindRefs": [
 			"i18n"
 		]
 	},
 
-	"ResourceFileModulePaths": {
-		"localBasePath": "",
-		"remoteExtPath": "BoilerPlate"
-	},
 	"SpecialPages": {
 		"FindRefs": "SpecialFindRefs"
 	},
