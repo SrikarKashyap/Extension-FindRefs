@@ -3,7 +3,7 @@
 		"authors": ["Srikar Kashyap Pulipaka"]
 	},
 	"findrefs-desc": "This is an example extension",
-	"findrefs-i18n-welcome": "Welcome to the localization file of the BoilerPlate extension.",
+	"findrefs-i18n-welcome": "Welcome to the localization file of the FindRefs extension.",
 	"findrefs": "Hello world!",
 	"findrefs-intro": "Please type a topic in the search box and press enter to find reference sources for it..",
 	"helloworld": "Hello world"
